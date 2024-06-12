@@ -1,3 +1,5 @@
+package Ejercicios;
+
 public class Ejercicio5 {
     public static void main(String[] args) {
         // EJERCICIO 5.1 de CLASE 5 Inferencia de tipos VAR y tipos primitivos
